@@ -1,0 +1,30 @@
+1.1,2
+1.2,3
+1.3,2
+1.4,the textual description could have more details, the text doesn't always seem to fit with the formulas above
+1.5,yes, I couldn't always understand how it was relevant with the formulas that were above it
+1.6,I am not sure I could be able to describe the nature of the function based on the information. I think I am being biased from already knowing the answer
+2.1,5
+2.2,2
+2.3,2
+2.4,2
+2.5,4
+2.6,4
+2.7,you can really see that the LJ potential can be approximated to a parabolic shape
+2.8,you can see the approximation of the LJ potential to a parabolic curve for certain values of r but how it deviates when r changes
+2.9,I feel that the text on the static plot is distracting, I however don't mind static plots in general. One could argue about the values of the parameters chosen for this plot without explanation
+2.10,LJ potential behaves as a parabolic function for values of r close to r0 and deviates when r changes. The effect of the parameter epsilon is not clear on this plot, I can't tell how the function would evolve when changing the value of epsilon
+3.1,7
+3.2,7
+3.3,7
+3.4,5
+3.5,5
+3.6,5
+3.7,8
+3.8,8
+3.9,8
+3.10,8
+3.11,how parameters change the nature of the functions
+3.12,i would move the labels showing the value of epsilon, r0 and E and put them on the side so it doesn't overlap with the curves
+3.13,changing the slider position to vary eps0
+3.14,not necessarilzx interactions but I would remind the relationship between the different curves that are plotted
